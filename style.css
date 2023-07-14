@@ -1,0 +1,22 @@
+.text{
+    color:tomato;
+}
+table, th, td {
+    border: 1px solid black;
+   
+  }
+  th, td {
+    background-color:aqua;
+    border-spacing: 5px 5px;
+    border-style: dotted;
+    border-color:blue
+  }
+  .line{
+    border:2px solid black;
+  }
+  .exercise{
+    text-align: center;
+  }
+  .passage{
+    margin-left: 30px;
+  }
